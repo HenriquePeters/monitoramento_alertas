@@ -1,5 +1,4 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Modelo de README Completo — Monitoramento e Alertas
 Monitoramento e Alertas
 
 Aplicativo Flutter para monitoramento em tempo real e emissão de alertas personalizados
